@@ -1,0 +1,2 @@
+graft {{ cookiecutter.repo_name }}
+include *.cfg *.rst *.in LICENSE
